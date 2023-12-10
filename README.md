@@ -1,2 +1,11 @@
 # ABOH-23-Local
-My writeups for the challenges I managed to solve for the CTF Competition, ASEAN Battle of Hackers 2023 (Local Category) held in APU, 2/12/2023. 
+
+## Challenge files and Writeups for the ABOH 23 CTF Competition. 
+
+This repository consists the challenge files and repositories of the following challenges:
+
+* Crack Store
+* Fur Elise
+* uwu
+
+Disclaimer: The three challenges above were created by [zachwong_02] (https://zachwong02.medium.com/). Check out his OSCP writeups on his Medium site!
